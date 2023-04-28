@@ -1,6 +1,9 @@
+Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
+Show Hide password=Show / Hide password
+
+; Note: April 28, 2023 - 25 missing translations
 Add User=
 Add=
-Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
 Click to select PNG file=
 Custom image=
 Description=
@@ -18,12 +21,9 @@ Restore default image=
 Retype password=
 Save=
 Shares Access=
-Show Hide password=Show / Hide password
 SSH authorized keys=
 Syntax of the key is incorrect=
 Use a password up to 128 characters=
 Use only lowercase letters, digits, underscores and dashes=
 User %s has been deleted=
 User name=
-
-; Note: June 6, 2022 - 25 missing translations
