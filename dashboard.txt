@@ -1,6 +1,3 @@
-sn=s/n
-
-; Note: April 29, 2023 - 142 missing translations
 %s ago=
 %s used of %s %s %%=%s used of %s (%s %%)
 1 m=
@@ -117,6 +114,7 @@ Shutdown the system=
 SMART error=
 SMART health-check failed=
 SMART=
+sn=s/n
 Start the array=
 Started only=
 Stop the array=
@@ -143,3 +141,5 @@ Virtual Machines=
 VPN Connections=
 Warnings=
 ZFS=
+
+; Note: April 29, 2023 - 142 missing translations
