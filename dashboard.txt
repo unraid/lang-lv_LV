@@ -196,4 +196,4 @@ W=
 Warnings=
 ZFS=
 
-; Note: December 28, 2024 - 198 missing translations
+; Note: December 28, 2024 - 195 missing translations
